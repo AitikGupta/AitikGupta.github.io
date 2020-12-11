@@ -2,45 +2,29 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2 align="center"> Hello, I'm Aitik Gupta. </h2>
+A CS undergraduate in my 3rd year from Indian Institute of Information Technology and Management, Gwalior. \
+I've been working remotely as a __Machine Learning Intern__ at __Code Heroku__ since May 2020. I've formerly interned at __Defence Research and Development Organisation (DRDO)__ in June-July of 2019.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+My interests mostly lie in the field of _Machine Learning_, _Computer Vision_ and _Software Engineering_, but I'm all in for new exciting challenges!
 
-<h2>Skills</h2>
+Although most of the code I've contributed is proprietary, I find _Open Source community_ truly amazing. \
+I've been recently contributing to organisations like [Matplotlib](https://github.com/matplotlib/matplotlib/issues?q=author%3Aaitikgupta+) and [OpenCV](https://github.com/opencv/opencv/issues?q=author%3Aaitikgupta+), and most of my personal projects are open-sourced at [GitHub](https://github.com/aitikgupta).
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+I like to think along the lines of clean and object-oriented code, mostly using __Python__ and __C++__.
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+### Some highlights:
+- [10/20] _Really_ started contributing to open-source organisations
+- [10/20] First [Research paper](https://arxiv.org/abs/2010.13714){:target="_blank"} accepted at [CoDS-COMAD 2021](https://cods-comad.in/2021/accepted_papers.html##blog-details:~:text=ActiveNet%3A%20A%20computer%2Dvision%20based%20approach%20to,Aitik%20Gupta%20and%20Aadit%20Agarwal){:target="_blank"}
+- [09/20] [1st place](https://drive.google.com/file/d/1x2IicmDsQx5vfjvHHqpnC8wIQiM_1Cr6/view?usp=sharing){:target="_blank"} in Ernst & Young GDS Hackathon (Theme - AI in Capacity Management): HackerEarth 
+- [08/20] [1st place](https://drive.google.com/file/d/10KUeJ0CujXOYBWwN-egqckhmbMJIAjej/view?usp=sharing){:target="_blank"} in Game of Codes Hackathon: CodeCops, IIIT Una
+- [05/20] Internship at Code Heroku begins
+- [02/20] 1st place in SIH Internals at IIIT Gwalior
+- [01/20] Runner-up in ML category: AASF Winter Projects
+- [10/19] Completed [Deep Learning Specialization](https://coursera.org/share/f977131233dbfee7fa1e5b6ffbb2d2e1){:target="_blank"} on Coursera
+- [08/19] Completed [Machine Learning](https://coursera.org/share/4ef104c5d7205072e21fd5496c464ea7){:target="_blank"} on Coursera
+- [07/19] Internship at DRDO ends
+- [06/19] Internship at DRDO begins
