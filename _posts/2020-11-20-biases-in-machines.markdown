@@ -15,8 +15,8 @@ description: Concepts behind induced biases in Natural Language Processing
 ---
 
 ## Introduction
-Tune in as I take you through a flashback, relating human understanding with machine learnt-biases. Weird to say that __You read this, but _You_ don't__. It's your conscience reading this without budging _your_ mouth. \
-How and when did you learn this incredible ability? And what exactly did you _learn_? \
+Tune in as I take you through a flashback, relating human understanding with machine-learnt biases. Weird to say that __You read this, but _You_ don't__. It's your conscience reading this without budging _your_ mouth. \
+How and when did we learn this incredible ability? And what exactly did we _learn_? \
 This brings me to a fundamental concept of __learning__. How do we incorporate knowledge, and more importantly, how can we make _machines_ incapacitate that knowledge?
 ## Quick Flashback
 > You go to school, probably 1st or 2nd class; you have an English period, the teacher starts with writing strange characters on the blackboard; starts saying ___A for Apple___, ___B for Ball___.
@@ -59,7 +59,7 @@ In this example, the properties used in the context were just _'type of color’
 > More context <-> More dimensions
 
 Every dimension would yield information about one of the properties of that word. \
-But do we really need to know which dimension relates to which property? Can we not just abstract it as just some property? \
+But do we really need to know which dimension relates to which property? Can we not just abstract it as just some property?
 ## Word Embeddings
 Imagine a 100 dimensions to represent a single word! This would slightly solve _addition-of-new-words_ problem too. \
 If _grapes_ were a new word, we could take some semantic properties from _already-learnt_ words like _apple_ as they both fall under a  _'type of fruit’_. \
@@ -99,18 +99,18 @@ This highly depends on the type of _data_ the algorithm was trained on; if it wa
 > "You shall not lie with a male as with a woman; it is an abomination."
 > — Torah / Bible, Book of Leviticus, Chapter 18, Verses 22
 
-Doesn’t sound so good in 21st century,  with such a _content-aware_ environment, does it? Now imagine a machine, learning from this (not so perfect) literature. \
-Clearly, there’s an __induced Bias in Machine__, where it learnt to ___discriminate based on race, colour, sex, language, religion, political or other opinions, national or social origin, property, birth or other statuses such as disability, age, marital and family status, sexual orientation and gender identity, health status, place of residence, economic and social situation___, \
-without us intending it to.
+Doesn’t sound so good in 21st century,  with such a _content-aware_ environment, does it? Now imagine a machine, learning from this _(not so perfect)_ literature. \
+Clearly, there’s an __induced Bias in Machine__, where it learnt to ___discriminate based on race, colour, sex, language, religion, political or other opinions, national or social origin, property, birth or other statuses such as disability, age, marital and family status, sexual orientation and gender identity, health status, place of residence, economic and social situation___, without us intending it to.
 
 Put something like this in a realtime utility, things can go horribly wrong.
-> Read about [Amazon’s secret AI recruiting tool](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G) that showed bias against women) 
+> Read about [Amazon’s secret AI recruiting tool](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G) that showed bias against women
 
 This is just one type of bias, which can result in discrimination based on prohibited legal terms. These problems are severe, especially now that there's been a _revolution_ around _a lot of conceptual facts_, which were previously anticipated to be ground truths.
 
 ## Conclusion
 How do we solve this? Do we come up with a _teacher-student_ setup, wherein teacher model makes sure the student model doesn’t induce a bias? Or do we come up with a _better representation_ of words for machines altogether? \
-It’s an open question, I don’t intend to take it up here. \
+It’s an open question, I don’t intend to take it up here.
 
-__Artificial Intelligence/Machine Learning has gained a lot of attention these last few years, but so has general understanding of normalization in society.__ \
-We talk and boast about no discrimination based on any grounds, but _actually_ putting words into actions - by originating new ideas, by framing new approaches, all the while by taking this discussion under consideration; is probably one of the best approaches we developers/engineers/thinkers can take! :)
+> __Artificial Intelligence/Machine Learning has gained a lot of attention these last few years, but so has general understanding of _normalization_ in society.__
+
+We talk and boast about no discrimination based on any grounds, but _actually_ putting words into actions - by originating new ideas, by framing new approaches, all the while by taking this discussion under consideration; is probably one of the _best approaches we developers/engineers/thinkers_ can take! :)
