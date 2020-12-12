@@ -34,7 +34,7 @@ What would a machine do? Let's say it'll try to remember these words by their nu
 Clearly, using this representation has some flaws:
 - Talking just about the English language, it adds a new word ___every 98 minutes___.
 _Memory is supposed to overflow some day._
-- “I like reddish apples and yellowish \_\_\_." - Fill in the blank. You know the answer, _bananas_. Easy peasy, right? Not for a machine though.
+- “I like reddish apples and yellowish \_\_\_." - Fill in the blank. You know the answer, _bananas_. Easy, right? But not for a machine.
     - These words would come under a single context umbrella, say ___types of fruits___; if we assign random numbers to every word, their context information is lost.
 
 We need a better representation. Instead of assigning just a single number, how about if we assign arrays of numbers to words? Imagine an array of 2 dimensions:
@@ -83,7 +83,7 @@ This gives us a green signal that we successfully captured the context. Right? B
 ```
 Programmer — Man + Woman = HomeMaker
 ```
-Theoretically, machine learning algorithms did their job remarkably by learning the properties and context of words from existing textual data. __The term _"homemaker"_ appeared more frequently with the pronoun _"she"_ than with _"he"_ or _"others"___, so it was more closely associated with _female-ness_ than _male-ness_. \
+Theoretically, machine learning algorithms did their job remarkably by learning the properties and context of words from existing textual data. __The term _"homemaker"_ appeared more frequently with the pronoun _"she"_ than with _"he"_ or _"others"___, so it was more closely associated with _female-ness_ than _male-ness_.
 > Even if the learning process was fair, the end outcome, however, was not.
 
 Revisit the class: Remember when the teacher related those characters/words with objects, which are _universal_? \
