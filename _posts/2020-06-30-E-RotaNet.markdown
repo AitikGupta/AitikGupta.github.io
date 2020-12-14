@@ -1,0 +1,39 @@
+---
+title: E-RotaNet
+layout: post
+date: 2020-06-30 8:10
+tag:
+- TensorFlow
+- Machine Learning
+- Computer Vision
+- Flask
+image: https://raw.githubusercontent.com/aitikgupta/E-RotaNet/master/screenshots/Figure_2.png
+headerImage: true
+projects: true
+hidden: true
+description: Let the model rotate images according to human-perception, a CV pipeline
+category: project
+author: aitikgupta
+externalLink: false
+---
+
+#### E-RotaNet is a Computer Vision pipeline, which can rotate images in proportion to human-level vision.
+## What is 'E' in E-Rotanet?
+'E' stands for the Efficientnet backbone used to learn the features and the context of the images.<br>
+> EfficientNets are a family of image classification models which use compound scaling, and achieve state-of-the-art accuracy, yet being an order-of-magnitude smaller and faster than previous models.
+
+## About the dataset
+[The released models](https://github.com/aitikgupta/E-RotaNet/releases/tag/v1.0-alpha) are trained on [Google Street View](https://www.crcv.ucf.edu/data/GMCP_Geolocalization/) dataset, which contains ~62k images which contain mostly human-perception viewing angles of streets and buildings.
+## Documentation
+Documentation can be found at [GitHub](https://github.com/aitikgupta/E-RotaNet).
+## Screenshots
+The bare source code can rotate images and generate a plot like this:
+![E-RotaNet_Figure_1](https://raw.githubusercontent.com/aitikgupta/E-RotaNet/master/screenshots/Figure_2.png)
+
+However, [the repository](https://github.com/aitikgupta/E-RotaNet) also contains a deployed Flask application, such that it attains following proof of concept:
+
+![E-RotaNet_Screenshot_1](https://raw.githubusercontent.com/aitikgupta/E-RotaNet/master/screenshots/Screenshot%20from%202020-06-30%2009-39-58.png)
+![E-RotaNet_Screenshot_2](https://raw.githubusercontent.com/aitikgupta/E-RotaNet/master/screenshots/Screenshot%20from%202020-06-30%2009-39-36.png)
+
+## Demo GIF
+![E-RotaNet_Demo](https://raw.githubusercontent.com/aitikgupta/E-RotaNet/master/screenshots/demo.gif)

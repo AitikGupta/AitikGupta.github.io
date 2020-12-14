@@ -12,7 +12,7 @@ I've been working remotely as a __Machine Learning Intern__ at __Code Heroku__ s
 My interests mostly lie in the field of _Machine Learning_, _Computer Vision_ and _Software Engineering_, but I'm all in for new exciting challenges!
 
 Although most of the code I've contributed is proprietary, I find _Open Source community_ truly amazing. \
-I've been recently contributing to organisations like [Matplotlib](https://github.com/matplotlib/matplotlib/issues?q=author%3Aaitikgupta+) and [OpenCV](https://github.com/opencv/opencv/issues?q=author%3Aaitikgupta+), and most of my personal projects are open-sourced at [GitHub](https://github.com/aitikgupta).
+I've been recently contributing to organisations like [NumPy](https://github.com/numpy/numpy/issues?q=author%3Aaitikgupta+), [CuPy](https://github.com/cupy/cupy/issues?q=author%3Aaitikgupta+), [Matplotlib](https://github.com/matplotlib/matplotlib/issues?q=author%3Aaitikgupta+) and [OpenCV](https://github.com/opencv/opencv/issues?q=author%3Aaitikgupta+), and most of my personal projects are open-sourced at [GitHub](https://github.com/aitikgupta).
 
 I like to think along the lines of clean and object-oriented code, mostly using __Python__ and __C++__.
 
