@@ -2,7 +2,7 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
 
     {% if site.analytics-google %}
@@ -11,7 +11,18 @@ layout: compress
 
     <meta charset="utf-8">
     <meta name=viewport content="width=device-width, initial-scale=1">
-    <meta name=author content="{{ site.name }}">
+
+    <meta property="og:title" content="{{ site.title }}"/>
+    <meta 
+        name="image" 
+        property="og:image" 
+        content="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}"
+    />
+    <meta name="author" content="{{ site.name }}"/>
+    <meta property="og:description" content="{{ site.bio }}"/>
+    <meta property="og:url" content="{{ site.url }}"/>
+
+    <!-- <meta name=author content="{{ site.name }}"> -->
 
     {% seo %}
 
