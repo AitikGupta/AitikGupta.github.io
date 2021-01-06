@@ -18,7 +18,7 @@ I like to think along the lines of clean and object-oriented code, mostly using 
 
 ### Some highlights:
 - [10/20] _Really_ started contributing to open-source organisations
-- [10/20] First [Research paper](https://arxiv.org/abs/2010.13714){:target="_blank"} accepted at [CoDS-COMAD 2021](https://cods-comad.in/2021/accepted_papers.html##blog-details:~:text=ActiveNet%3A%20A%20computer%2Dvision%20based%20approach%20to,Aitik%20Gupta%20and%20Aadit%20Agarwal){:target="_blank"}
+- [10/20] First [Research paper](https://arxiv.org/abs/2010.13714){:target="_blank"} accepted at [CoDS-COMAD 2021](https://dl.acm.org/doi/abs/10.1145/3430984.3430986){:target="_blank"}
 - [09/20] [1st place](https://drive.google.com/file/d/1x2IicmDsQx5vfjvHHqpnC8wIQiM_1Cr6/view?usp=sharing){:target="_blank"} in Ernst & Young GDS Hackathon (Theme - AI in Capacity Management): HackerEarth 
 - [08/20] [1st place](https://drive.google.com/file/d/10KUeJ0CujXOYBWwN-egqckhmbMJIAjej/view?usp=sharing){:target="_blank"} in Game of Codes Hackathon: CodeCops, IIIT Una
 - [05/20] Internship at Code Heroku begins

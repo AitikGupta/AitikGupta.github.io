@@ -21,7 +21,7 @@ This brings me to a fundamental concept of __learning__. How do we incorporate k
 ## Quick Flashback
 > You go to school, probably 1st or 2nd class; you have an English period, the teacher starts with writing strange characters on the blackboard; starts saying ___A for Apple___, ___B for Ball___.
 
-Tteacher relates those characters with an object, _which is concrete/universal_. An Apple will always be an Apple right? \
+Teacher relates those characters with an object, _which is concrete/universal_. An Apple will always be an Apple right? \
 You start relating random combinations of letters together, and learn about _words_, which somehow make a lot of sense. \
 But how? What happens within our brain? \
 Instead of this, there's _a more interesting question_ - __How can a machine understand the same way we do?__
