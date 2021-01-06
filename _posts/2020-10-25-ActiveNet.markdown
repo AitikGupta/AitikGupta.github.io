@@ -20,7 +20,7 @@ externalLink: false
 
 #### ActiveNet is a multi-stage mechanism to detect levels of activeness, with a single monocular image input of a target person.
 ## In-Depth Details
-Our paper, __ActiveNet: A computer-vision based approach to determine lethargy__ consists of in-depth details, literature review, experimentation results, etc. It can be found on [arXiv]({{ site.url }}/blog).
+Our paper, __ActiveNet: A computer-vision based approach to determine lethargy__ consists of in-depth details, literature review, experimentation results, etc. It can be found on [arXiv](https://arxiv.org/abs/2010.13714).
 ## Implementation Details
 ### Overview
 <img width="75%" src="{{ site.url }}/assets/images/projects/ActiveNet_Objective.png">
