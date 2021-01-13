@@ -50,6 +50,9 @@
 - name: gitlab
   url-pattern: gitlab.com/__USERNAME__
 
+- name: gitlab-gnome
+  url-pattern: gitlab.gnome.org/__USERNAME__
+
 - name: keybase
   url-pattern: keybase.io/__USERNAME__
   icon: key

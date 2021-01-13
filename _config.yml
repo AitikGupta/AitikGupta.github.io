@@ -46,7 +46,7 @@ linkedin: aitik-gupta
 # youtube: myyoutube
 # spotify: myspotify
 github: aitikgupta
-gitlab: aitikgupta
+gitlab-gnome: aitikgupta
 instagram: aitikgupta
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -74,7 +74,7 @@ scholar: byEqHo8AAAAJ&hl=en
 # figshare: myfigshare
 
 # if desired, specify custom order of social links in the array below
-social-links-order: [email, telegram, linkedin, github, scholar, instagram]
+social-links-order: [email, linkedin, github, gitlab-gnome, scholar, instagram]
 
 authors:
   aitikgupta:
