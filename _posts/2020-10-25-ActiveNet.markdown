@@ -45,5 +45,5 @@ Level of activeness assessed into 1 of 4 levels with a Decision-Tree based class
 ### Alarm System
 Low activeness alerts run out to users of a Slack Workspace.
 ## Conclusion
-__Our paper has been accepted in [ACM India Joint International Conference on Data Science and Management of Data, (CoDS-COMAD '21)](https://cods-comad.in/2021/accepted_papers.html##blog-details:~:text=ActiveNet%3A%20A%20computer%2Dvision%20based%20approach%20to,Aitik%20Gupta%20and%20Aadit%20Agarwal)!__ \
+__Our paper has been accepted in [ACM India Joint International Conference on Data Science and Management of Data, (CoDS-COMAD '21)](https://dl.acm.org/doi/abs/10.1145/3430984.3430986)!__ \
 The whole pipeline is open-sourced on [GitHub](https://github.com/aaditagarwal/ActiveNet).
