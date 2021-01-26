@@ -6,19 +6,31 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h2 align="center"> Hello, I'm Aitik Gupta. </h2>
-A CS undergraduate in my 3rd year from Indian Institute of Information Technology and Management, Gwalior. \
-I've been working remotely as a __Machine Learning Intern__ at __Code Heroku__ since May 2020. I've formerly interned at __Defence Research and Development Organisation (DRDO)__ in June-July of 2019.
+A CS undergraduate in my 3rd year from Indian Institute of Information Technology and Management, Gwalior.
+> * Former _Machine Learning Intern_ at __Code Heroku__
+>
+> * Former _Project Trainee_ at __Defence Research and Development Organisation (DRDO)__
 
-My interests mostly lie in the field of _Machine Learning_, _Computer Vision_ and _Software Engineering_, but I'm all in for new exciting challenges!
+With a keen interest in __open-source__, I frequently contribute to organisations based on __computational Python__.
 
-Although most of the code I've contributed is proprietary, I find _Open Source community_ truly amazing. \
-I've been recently contributing to organisations like [NumPy](https://github.com/numpy/numpy/issues?q=author%3Aaitikgupta+), [CuPy](https://github.com/cupy/cupy/issues?q=author%3Aaitikgupta+), [Matplotlib](https://github.com/matplotlib/matplotlib/issues?q=author%3Aaitikgupta+) and [OpenCV](https://github.com/opencv/opencv/issues?q=author%3Aaitikgupta+), and most of my personal projects are open-sourced at [GitHub](https://github.com/aitikgupta).
+I like to think along the lines of clean and object-oriented code, mostly using __Python__ and __C++__. My interests lie in the field of __Software Engineering__ with __Machine Learning__, _but I'm always up for new and exciting challenges!_
 
-I like to think along the lines of clean and object-oriented code, mostly using __Python__ and __C++__.
+My personal projects apply technologies including Machine Learning, Computer Vision etc. to realtime utilities, and are open-sourced at [GitHub](https://github.com/aitikgupta).
+
+Although most of the code I've contributed is proprietary, I find _Open Source community_ truly amazing, some of my major contributions:
+* [Matplotlib](https://github.com/matplotlib/matplotlib/issues?q=author%3Aaitikgupta+)
+* [CuPy](https://github.com/cupy/cupy/issues?q=author%3Aaitikgupta+)
+* [NumPy](https://github.com/numpy/numpy/issues?q=author%3Aaitikgupta+)
+* [Pitivi](https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=aitikgupta)
+* [OpenCV](https://github.com/opencv/opencv/issues?q=author%3Aaitikgupta+)
+
+Apart from the technical aspects, when I'm not on my laptop I like to take part in stage & street theatres, and attend to gaming on E-Platforms!
 
 ### Some highlights:
+- [1/21] Selected for [MLH Fellowship](https://fellowship.mlh.io/)
+- [12/20] Internship at Code Heroku ends
 - [10/20] _Really_ started contributing to open-source organisations
-- [10/20] First [Research paper](https://arxiv.org/abs/2010.13714){:target="_blank"} accepted at [CoDS-COMAD 2021](https://dl.acm.org/doi/abs/10.1145/3430984.3430986){:target="_blank"}
+- [10/20] First Research paper [(pre-print)](https://arxiv.org/abs/2010.13714){:target="_blank"} accepted at [CoDS-COMAD 2021](https://dl.acm.org/doi/abs/10.1145/3430984.3430986){:target="_blank"}
 - [09/20] [1st place](https://drive.google.com/file/d/1x2IicmDsQx5vfjvHHqpnC8wIQiM_1Cr6/view?usp=sharing){:target="_blank"} in Ernst & Young GDS Hackathon (Theme - AI in Capacity Management): HackerEarth
 - [08/20] [1st place](https://drive.google.com/file/d/10KUeJ0CujXOYBWwN-egqckhmbMJIAjej/view?usp=sharing){:target="_blank"} in Game of Codes Hackathon: CodeCops, IIIT Una
 - [05/20] Internship at Code Heroku begins
