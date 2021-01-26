@@ -9,11 +9,9 @@ tag:
 - Human Pose Estimation
 image: https://raw.githubusercontent.com/aaditagarwal/ActiveNet/master/screenshots/Below_25_2.png
 headerImage: true
-projects: true
-hidden: true
 description: A multi-stage mechanism to detect levels of activeness, with a single
   monocular image input of a person
-category: project
+category: blog
 author: aitikgupta
 externalLink: false
 ---

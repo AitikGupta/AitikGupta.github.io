@@ -10,10 +10,11 @@ tag:
 image: https://raw.githubusercontent.com/aitikgupta/E-RotaNet/master/screenshots/Figure_2.png
 headerImage: true
 projects: true
-hidden: true
-description: Let the model rotate images according to human-perception, a CV pipeline
+description: Learning the context of images, and rotating them according to human-perception
 category: project
 author: aitikgupta
+about: true
+code: https://github.com/aitikgupta/E-RotaNet/
 externalLink: false
 ---
 
