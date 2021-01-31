@@ -1,0 +1,74 @@
+---
+title: swi-ml
+layout: post
+date: 2021-01-30 15:10
+tag:
+- Machine Learning
+- Python Library
+- NumPy
+- CuPy
+image: https://raw.githubusercontent.com/aitikgupta/swi-ml/master/logo/swi-ml.png
+headerImage: true
+projects: true
+description: A machine learning library written from scratch - with runtime switchable
+  backend!
+category: project
+author: aitikgupta
+about: true
+code: https://github.com/aitikgupta/swi-ml/
+externalLink: false
+---
+
+#### Small Disclaimer: This library is NOT an alternative to amazing libraries like [scikit-learn](https://scikit-learn.org/) and [cuML](https://docs.rapids.ai/api/cuml/stable/). Their interfaces are complete on their own!
+## What is swi-ml?
+[swi-ml](https://pypi.org/project/swi-ml/) is a small lightweight Python library, which implements a subset of classical machine learning algorithms, with a twist - it has a switchable backend!
+
+## But what is a switchable backend?
+[NumPy](https://numpy.org) offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more. It is the backbone for many such libraries, like [scikit-learn](https://scikit-learn.org/).
+
+But, most of its code is in serial order.
+> `numpy` is primarily designed to be as fast as possible on a single core, and to be as parallelizable as possible if you need to do so.
+
+Moreover, vanilla NumPy cannot accelerate computing on a GPU.
+
+### [CuPy](https://cupy.dev/) comes to rescue!
+> CuPy is an open-source array library accelerated with NVIDIA CUDA, which speeds up some operations more than 100X.
+
+"__CuPy's interface is highly compatible with NumPy__; in most cases it can be used as a drop-in replacement." - So why not use this and create a small library which implements a domain-problem (_machine learning_ in this case) and benefit from _both libraries_ at a __single interface__?
+
+
+#### This is what [swi-ml](https://pypi.org/project/swi-ml/) does.
+It was built in a duration of a month, where I mostly learnt:
+* <ins>___Test-Driven___</ins> development
+* <ins>___Object-Oriented___</ins> code structure
+* building a <ins>___pip installable___</ins> library
+* implementing correct <ins>___Logging___</ins> (bybye `print()` statement!)
+* and most importantly - implementing a `singleton` <ins>___Backend___</ins> (with correct raises and runtime imports)
+
+
+## How do I use it?
+`swi-ml` is published to PyPI at this URL: [https://pypi.org/project/swi-ml/](https://pypi.org/project/swi-ml/)
+
+So installing it is as simple as:
+```console
+pip install swi-ml
+```
+Or, via GitHub:
+```console
+pip install git+https://github.com/aitikgupta/swi-ml
+```
+
+## What dependencies do I need to install?
+Except NumPy, __there's no hard-dependency__!
+
+Although, to use the GPU-accelerated backend, a working installation of CuPy [(install guide)](https://docs.cupy.dev/en/stable/install.html) is required.
+
+Other than this, some plot functions might require a working installation of [matplotlib](https://matplotlib.org/), but it will be a runtime-dependency soon (see [Roadmap](https://github.com/aitikgupta/swi-ml/issues/1)).
+
+#### _(Recommended)_ Checkout the [README.md on GitHub](https://github.com/aitikgupta/swi-ml) for a detailed guide.
+
+## Roadmap/Code/Documentation
+Code is open sourced at [GitHub](https://github.com/aitikgupta/swi-ml), one can find _many_, _many_ comments within the library.
+
+## Cherry Points
+There was a time in developing cycles, when I decided to <ins>change the name of the library</ins> - cherry points if one can figure out the previous name! (HINT: It is close to an amazing library by [RapidsAI](https://github.com/rapidsai/cuml), and has a commit dedicated to it)
