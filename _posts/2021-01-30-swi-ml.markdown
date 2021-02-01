@@ -23,6 +23,15 @@ externalLink: false
 ## What is swi-ml?
 [swi-ml](https://pypi.org/project/swi-ml/) is a small lightweight Python library, which implements a subset of classical machine learning algorithms, with a twist - it has a switchable backend!
 
+```python
+from swi_ml import set_backend
+
+# numpy backend (CPU)
+set_backend("numpy")
+
+# cupy backend (GPU)
+set_backend("cupy")
+```
 ## But what is a switchable backend?
 [NumPy](https://numpy.org) offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more. It is the backbone for many such libraries, like [scikit-learn](https://scikit-learn.org/).
 
