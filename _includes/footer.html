@@ -1,4 +1,35 @@
 <footer class="footer-main">
+    <script type="text/javascript">
+        function toggle_visibility(id) {
+            var form = document.getElementById(id);
+            var innerForm = document.getElementById(id + '-inner');
+            var toggle = document.getElementById("toggle-link")
+            if(form.style.display == 'block') {
+                toggle.innerHTML = "Contact Me &#8609;"
+                form.style.display = 'none';
+                innerForm.reset();
+            }
+            else{
+                toggle.innerHTML = "Contact Me &#8607;"
+                form.style.display = 'block';
+            }
+        }
+    </script>
+
+    <h5 class="contact-toggle"><a id="toggle-link" style="text-decoration: none"  href="javascript:void(0);" onclick="toggle_visibility('contact-form');">Contact Me &#8609;</a></h5>
+
+    <div class="contact-class" id="contact-form" style="display: none">
+        <form action="{{ site.contact-url }}" id="contact-form-inner" method="POST">
+            <label for="fname">Name</label>
+            <input type="text" id="fname" name="firstname" required="true" placeholder="Your name..." />
+            <label>Email</label>
+            <input type="email" id="email" required="true" name="_replyto" placeholder="Your email..." />
+            <label for="subject">Message</label>
+            <textarea id="subject" required="true" name="message" placeholder="Write something..." style="height: 170px"></textarea>
+            <input type="submit" value="Submit" class="button" />
+        </form>
+    </div>
+
     {{ site.name }} © {{ site.time | date: '%Y' }}
 
     <a class="link" href="{{ site.url }}/feed.xml" target="_blank">

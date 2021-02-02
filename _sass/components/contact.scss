@@ -1,0 +1,49 @@
+.contact-toggle {
+  font-size: 1.3rem;
+}
+
+.contact-class,
+input[type="text"],
+input[type="email"]{
+  color: $alpha
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+  width: 100%;
+  padding: 15px 5px 15px 5px;
+  border: 1px solid $epsilon;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+form {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+input[type="submit"] {
+  background-color: $delta;
+  color: white;
+  padding: 10px 15px 10px 15px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: $alpha;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the 
+submit button spread across the width */
+@media screen and (max-width: 600px) {
+  input[type="submit"] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
