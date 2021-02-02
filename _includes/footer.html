@@ -1,21 +1,22 @@
-<footer class="footer-main">
-    <script type="text/javascript">
-        function toggle_visibility(id) {
-            var form = document.getElementById(id);
-            var innerForm = document.getElementById(id + '-inner');
-            var toggle = document.getElementById("toggle-link")
-            if(form.style.display == 'block') {
-                toggle.innerHTML = "Contact Me &#8609;"
-                form.style.display = 'none';
-                innerForm.reset();
-            }
-            else{
-                toggle.innerHTML = "Contact Me &#8607;"
-                form.style.display = 'block';
-            }
-        }
-    </script>
+<script type="text/javascript">
+    function toggle_visibility(id) {
+        var form = document.getElementById(id);
+        var innerForm = document.getElementById(id + '-inner');
+        var toggle = document.getElementById("toggle-link");
 
+        if (form.style.display == 'block') {
+            toggle.innerHTML = "Contact Me &#8609;";
+            form.style.display = 'none';
+            innerForm.reset();
+        }
+        else {
+            toggle.innerHTML = "Contact Me &#8607;";
+            form.style.display = 'block';
+        }
+    }
+</script>
+
+<footer class="footer-main">
     <h5 class="contact-toggle"><a id="toggle-link" style="text-decoration: none"  href="javascript:void(0);" onclick="toggle_visibility('contact-form');">Contact Me &#8609;</a></h5>
 
     <div class="contact-class" id="contact-form" style="display: none">
