@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({% if site.external-image %}{{ site.picture-big }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h2 align="center"> Hello, I'm Aitik Gupta. </h2>
 A CS undergraduate in my 3rd year from Indian Institute of Information Technology and Management, Gwalior.

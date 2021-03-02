@@ -8,8 +8,9 @@ description: Personal Website
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/aitikgupta.png
+external-image: true
+picture: https://avatars.githubusercontent.com/u/43996118?s=200&u=d2dfb0aeaed984159d94e88cd8c91495aae7f49d&v=4
+picture-big: https://avatars.githubusercontent.com/u/43996118?s=400&u=d2dfb0aeaed984159d94e88cd8c91495aae7f49d&v=4
 screenshot: assets/images/screenshot.png
 
 # If you want to include your resume, set to true
