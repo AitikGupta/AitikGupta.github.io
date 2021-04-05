@@ -82,8 +82,8 @@ authors:
   aitikgupta:
     name: Aitik Gupta
     bio: Trying to make the world a better place, a line of code at a time.
-    external-image: false
-    picture: assets/images/aitikgupta.png
+    external-image: true
+    picture: https://avatars.githubusercontent.com/u/43996118?s=50&u=d2dfb0aeaed984159d94e88cd8c91495aae7f49d&v=4
     linkedin: aitik-gupta
     github: aitikgupta
   johndoe:

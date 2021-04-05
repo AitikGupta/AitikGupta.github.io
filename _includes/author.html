@@ -1,10 +1,12 @@
 <section class="author{% if site.disqus == false %} no-disqus{% endif %}">
     <div class="toleft">
-        <img
-            class="selfie"
-            src="{% if site.authors[page.author].external-image == true %}{{ site.authors[page.author].picture }}{% else %}{{ site.url }}/{{ site.authors[page.author].picture }}{% endif %}"
-            alt="{{ site.authors[page.author].name }}"
-        />
+        <a href="{{ site.url }}" style="text-decoration: none">
+            <img
+                class="selfie"
+                src="{% if site.authors[page.author].external-image == true %}{{ site.authors[page.author].picture }}{% else %}{{ site.url }}/{{ site.authors[page.author].picture }}{% endif %}"
+                alt="{{ site.authors[page.author].name }}"
+            />
+        </a>
     </div>
 
     <div class="toright">
