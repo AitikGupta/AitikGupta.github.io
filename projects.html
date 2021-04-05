@@ -21,6 +21,9 @@ title: Projects
                         <h5 class="title">{{ post.description }}</h5>
                     </center>
                 </div>
+                {% if post.title != "E-RotaNet" %}
+                    <hr>
+                {% endif %}
             {% endif %}
         {% endfor %}
     {% endif %}
