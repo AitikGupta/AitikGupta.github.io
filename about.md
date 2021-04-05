@@ -7,6 +7,8 @@ layout: page
 
 <h2 align="center"> Hello, I'm Aitik Gupta. </h2>
 A CS undergraduate in my 3rd year from Indian Institute of Information Technology and Management, Gwalior.
+> * _MLH Fellow'21_ at __Major League Hacking__
+> 
 > * Former _Machine Learning Intern_ at __Code Heroku__
 >
 > * Former _Project Trainee_ at __Defence Research and Development Organisation (DRDO)__
@@ -27,7 +29,8 @@ Although most of the code I've contributed is proprietary, I find _Open Source c
 Apart from the technical aspects, when I'm not on my laptop I like to take part in stage & street theatres, and attend to gaming on E-Platforms!
 
 ### Some highlights:
-- [1/21] Selected for [MLH Fellowship](https://fellowship.mlh.io/)
+- [4/26] Fellowship at MLH ends
+- [2/21]  Fellowship at MLH begins
 - [12/20] Internship at Code Heroku ends
 - [10/20] _Really_ started contributing to open-source organisations
 - [10/20] First Research paper [(pre-print)](https://arxiv.org/abs/2010.13714){:target="_blank"} accepted at [CoDS-COMAD 2021](https://dl.acm.org/doi/abs/10.1145/3430984.3430986){:target="_blank"}
