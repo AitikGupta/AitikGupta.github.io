@@ -40,7 +40,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-# twitter: mytwitter
+twitter: aitikgupta
 telegram: aitikgupta
 
 # pinterest: mypinterest
@@ -76,7 +76,7 @@ scholar: byEqHo8AAAAJ&hl=en
 # figshare: myfigshare
 
 # if desired, specify custom order of social links in the array below
-social-links-order: [email, linkedin, github, gitlab-gnome, scholar, instagram]
+social-links-order: [email, linkedin, github, twitter, gitlab-gnome, scholar, instagram]
 
 authors:
   aitikgupta:
