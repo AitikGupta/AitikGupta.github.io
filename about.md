@@ -9,7 +9,7 @@ layout: page
 A CS undergraduate in my 3rd year from Indian Institute of Information Technology and Management, Gwalior.
 > * _MLH Fellow Spring'21_ at __Major League Hacking__
 > 
-> * Former _Machine Learning Intern_ at __Code Heroku__
+> * Former _Machine Learning Intern_ at __RapidQuest__
 >
 > * Former _Project Trainee_ at __Defence Research and Development Organisation (DRDO)__
 
