@@ -25,6 +25,8 @@ There are several utilities from GitHub that makes collaboration easy, GitHub Pr
 Currently, there is no UI-based extension that integrates GitHub Projects in VSCode. Hence, our team (Me, [Dean Gladish](https://github.com/gladishd), [Samuel Yuan](https://github.com/yuansamuel) and [Shrill Shrestha](https://github.com/shrillshrestha)) decided to make one.
 
 #### A quick spoiler: we [won](https://devpost.com/software/vscode-github-projects)!
+## Video Demonstration (YouTube)
+<iframe width="100%" height="597" src="https://www.youtube.com/embed/MycrfrHHz18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## What are GitHub Projects?
 GitHub Projects are divided into 3 scopes:
 - User Scope

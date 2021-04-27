@@ -35,7 +35,8 @@ To build such a platform, our team (Me, [Bodhisha Thomas](https://github.com/bod
  <img alt="SocioMark Landing Page" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/472/914/datas/gallery.jpg"/>
 </p>
 <figcaption>SocioMark Landing Page</figcaption>
-
+## Video Demonstration (YouTube)
+<iframe width="100%" height="597" src="https://www.youtube.com/embed/1J6-tyKmhdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Generic Social Media Features
 Like any other social media platform, SocioMark provides users ability to:
 - Register
