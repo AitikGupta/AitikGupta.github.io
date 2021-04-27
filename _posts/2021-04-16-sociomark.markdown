@@ -101,7 +101,53 @@ The backend endpoints, their routes, their model schemas, and their controllers 
  <img alt="Server Endpoints" src="https://user-images.githubusercontent.com/43996118/113442161-2fa8a800-940d-11eb-8e3c-87d1184a9f8e.png"/>
 </p>
 <figcaption>Server Endpoints</figcaption>
-
+## Project Links
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-0a7q{border-color:#000000;text-align:left;vertical-align:middle}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xwyw">Description</th>
+    <th class="tg-xwyw">Type</th>
+    <th class="tg-xwyw">Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xwyw">Demo</td>
+    <td class="tg-xwyw">YouTube</td>
+    <td class="tg-0a7q"><a href="https://youtu.be/1J6-tyKmhdc" target="_blank" rel="noopener noreferrer">youtu.be/1J6-tyKmhdc/</a></td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">Frontend</td>
+    <td class="tg-xwyw">Netlify</td>
+    <td class="tg-0a7q"><a href="https://sociomark.netlify.app/" target="_blank" rel="noopener noreferrer">sociomark.netlify.app/</a></td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">Backend</td>
+    <td class="tg-xwyw">Heroku</td>
+    <td class="tg-0a7q"><a href="http://sociomark-backend.herokuapp.com/" target="_blank" rel="noopener noreferrer">sociomark-backend.herokuapp.com/</a></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">Submission</td>
+    <td class="tg-73oq">Devpost</td>
+    <td class="tg-73oq"><a href="https://devpost.com/software/sociomark/" target="_blank" rel="noopener noreferrer">devpost.com/software/sociomark/</a></td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">Source Code</td>
+    <td class="tg-xwyw">GitHub</td>
+    <td class="tg-0a7q"><a href="https://github.com/MLH-Fellowship/SocioMark/" target="_blank" rel="noopener noreferrer">MLH-Fellowship/SocioMark/</a></td>
+  </tr>
+</tbody>
+</table></div>
 ## End Notes
 SocioMark is a <ins>Progressive Web Application</ins> (it can be *installed* on devices!), is completely <ins>Responsive</ins> (it works on mobile devices!) - and *ensures* Data Authenticity throughout the platform.
 

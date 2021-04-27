@@ -70,7 +70,47 @@ The result is an integration of realtime communication between VSCode native UI 
 	<img alt="GraphQL Schema" src="https://user-images.githubusercontent.com/43996118/108566899-2c5dcf00-732d-11eb-8782-7862b3e3a32b.png"/>
 </p>
 <figcaption>GraphQL Schema</figcaption>
-## How do I use it?
-`VSCode-GitHub-Projects` is published to VSCode's Marketplace at this URL: [https://marketplace.visualstudio.com/items?itemName=Pod212.vscode-github-projects](https://marketplace.visualstudio.com/items?itemName=Pod212.vscode-github-projects)
+## Project Links
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-0a7q{border-color:#000000;text-align:left;vertical-align:middle}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xwyw">Description</th>
+    <th class="tg-xwyw">Type</th>
+    <th class="tg-xwyw">Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xwyw">Demo</td>
+    <td class="tg-xwyw">YouTube</td>
+    <td class="tg-0a7q"><a href="https://youtu.be/MycrfrHHz18" target="_blank" rel="noopener noreferrer">youtu.be/MycrfrHHz18/</a></td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">Extension</td>
+    <td class="tg-xwyw">Visual Studio Marketplace</td>
+    <td class="tg-0a7q"><a href="https://marketplace.visualstudio.com/items?itemName=Pod212.vscode-github-projects" target="_blank" rel="noopener noreferrer">Pod212.vscode-github-projects/</a></td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">Submission</td>
+    <td class="tg-xwyw">Devpost</td>
+    <td class="tg-0a7q"><a href="https://devpost.com/software/vscode-github-projects" target="_blank" rel="noopener noreferrer">devpost.com/software/vscode-github-projects/</a></td>
+  </tr>
+  <tr>
+    <td class="tg-xwyw">Source Code</td>
+    <td class="tg-xwyw">GitHub</td>
+    <td class="tg-0a7q"><a href="https://github.com/MLH-Fellowship/vscode-github-projects" target="_blank" rel="noopener noreferrer">MLH-Fellowship/vscode-github-projects/</a></td>
+  </tr>
+</tbody>
+</table></div>
+	
 ## Roadmap/Code/Documentation
 The repository is open sourced at MLH-Fellowship's [GitHub](https://github.com/MLH-Fellowship/vscode-github-projects).
