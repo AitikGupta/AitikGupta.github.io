@@ -6,12 +6,12 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture-big }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h2 align="center"> Hello, I'm Aitik Gupta. </h2>
-A CS undergraduate in my 3rd year from Indian Institute of Information Technology and Management, Gwalior.
-> * _MLH Fellow Spring'21_ at __Major League Hacking__
+An undergraduate in my junior year from Indian Institute of Information Technology and Management, Gwalior.
+> * _MLH Fellow Spring'21_ at <a style="text-decoration: none;" href="http://fellowship.mlh.io/">Major League Hacking</a>
 > 
-> * Former _Machine Learning Intern_ at __RapidQuest__
+> * Former _Machine Learning Intern_ at <a style="text-decoration: none;" href="https://www.rapidquest.in/">RapidQuest</a>
 >
-> * Former _Project Trainee_ at __Defence Research and Development Organisation (DRDO)__
+> * Former _Project Trainee_ at <a style="text-decoration: none;" href="https://www.drdo.gov.in/home">Defence Research and Development Organisation (DRDO)</a>
 
 With a keen interest in __open-source__, I frequently contribute to organisations based on __computational Python__.
 
