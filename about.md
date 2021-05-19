@@ -7,6 +7,8 @@ layout: page
 
 <h2 align="center"> Hello, I'm Aitik Gupta. </h2>
 An undergraduate in my junior year from Indian Institute of Information Technology and Management, Gwalior.
+> * Google Summer of Code '21 at <a style="text-decoration: none;" href="https://matplotlib.org/">Matplotlib</a> (under <a style="text-decoration: none;" href="https://numfocus.org/">NumFOCUS</a>)
+>
 > * _MLH Fellow Spring'21_ at <a style="text-decoration: none;" href="http://fellowship.mlh.io/">Major League Hacking</a>
 > 
 > * Former _Machine Learning Intern_ at <a style="text-decoration: none;" href="https://www.rapidquest.in/">RapidQuest</a>
@@ -29,6 +31,7 @@ Although most of the code I've contributed is proprietary, I find _Open Source c
 Apart from the technical aspects, when I'm not on my laptop I like to take part in stage & street theatres, and attend to gaming on E-Platforms!
 
 ### Some highlights:
+- [5/21] [Proposal](https://summerofcode.withgoogle.com/projects/#5941691627864064) accepted for Google Summer of Code 2021
 - [4/21] Fellowship at Major League Hacking ends
 - [4/21] [Top Project](https://devpost.com/software/sociomark) at Sprint 2 [Hackathon](https://fellowship-explorer-2-batch-2.devpost.com/project-gallery)
 - [2/21] [Top Project](https://devpost.com/software/vscode-github-projects) at Sprint 0 [Hackathon](https://fellowship-explorer-0-batch-2.devpost.com/project-gallery)
