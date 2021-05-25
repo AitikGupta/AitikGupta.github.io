@@ -27,22 +27,21 @@ form {
   margin-bottom: 30px;
 }
 
-input[type="submit"] {
+.submitform {
+  text-align: center;
+  vertical-align: middle;
   background-color: $delta;
   color: white;
   padding: 10px 15px 10px 15px;
+  width: 25%;
   border: none;
   cursor: pointer;
-}
-
-input[type="submit"]:hover {
-  background-color: $alpha;
 }
 
 /* Responsive layout - when the screen is less than 600px wide, make the 
 submit button spread across the width */
 @media screen and (max-width: 600px) {
-  input[type="submit"] {
+  .submitform {
     width: 100%;
     margin-top: 0;
   }
