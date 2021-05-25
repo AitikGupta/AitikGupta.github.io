@@ -19,7 +19,7 @@
 <footer class="footer-main">
     <h5 class="contact-toggle"><a id="toggle-link" style="text-decoration: none"  href="javascript:void(0);" onclick="toggle_visibility('contact-form');">Contact Me &#8609;</a></h5>
 
-    <div class="contact-class" id="contact-form" style="display: none">
+    <!-- <div class="contact-class" id="contact-form" style="display: none">
         <form action="{{ site.contact-url }}" id="contact-form-inner" method="POST">
             <label for="fname">Name</label>
             <input type="text" id="fname" name="firstname" required="true" placeholder="Your name..." />
@@ -28,6 +28,20 @@
             <label for="subject">Message</label>
             <textarea id="subject" required="true" name="message" placeholder="Write something..." style="height: 170px"></textarea>
             <input type="submit" value="Submit" class="button" />
+        </form>
+    </div> -->
+
+    <div class="contact-class" id="contact-form" style="display: none">
+        <form action="{{ site.contact-url }}" id="contact-form-inner" class="pageclip-form" method="POST">
+            <label for="fname">Name</label>
+            <input type="text" name="name" required="true" placeholder="Your name..." />
+            <label>Email</label>
+            <input type="email" name="email" required="true" placeholder="Your email..." />
+            <label for="subject">Message</label>
+            <textarea required="true" name="body" placeholder="Write something..." style="height: 170px"></textarea>
+            <button type="submit" class="pageclip-form__submit button">
+                <span>Send</span>
+            </button>
         </form>
     </div>
 
