@@ -1,9 +1,20 @@
 <div class="item {% if post.star %}star{% endif %}">
     <a class="url" href="{{ site.url }}{{ post.url }}">
-        <aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-        <h3 class="title">{{ post.title }}</h3>
-        <br>
-        <h5 class="title">{{ post.description }}</h5>
+        <div class="side-by-side" style="margin-top: 5px; margin-bottom: 5px;">
+            <div class="toleft" style="vertical-align: middle;">
+                <img
+                class="selfie"
+                src="{% if post.headerImage == true %}{{ post.image }}{% else %}#{% endif %}"
+                alt="{{ site.authors[page.author].name }}"
+                />
+            </div>
+            <div class="toright" style="vertical-align: middle; margin-top: -2rem">
+                <h3 class="title">{{ post.title }}</h3>
+                <h5 class="title">{{ post.description }}</h5>
+                <br/>
+                <dateblog><time class="dateblog" datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></dateblog>
+            </div>
+        </div>
     </a>
     {% if post.title != "Object Detection in 2020" %}
         <hr>
