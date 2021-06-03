@@ -32,10 +32,12 @@
         margin: 0 auto
 
     > .item > .url
+        color: $alpha
         width: 100%
         display: block
         padding: 20px 0
         text-decoration: none
+        transition: all ease-in-out .2s
 
     > .item > .url > .title
         margin: 0
@@ -64,8 +66,11 @@
         color: $gama
         transition: all ease-in-out .2s
 
-    .item:hover .url dateblog
+    .item:hover dateblog
         color: $alpha
+
+    .item:hover .url
+        color: $delta
 
 .blog > .list > .item > .url,
 .projects > .list > .item > .url
