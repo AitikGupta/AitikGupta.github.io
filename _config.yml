@@ -1,10 +1,10 @@
 # main text of home
 name: Aitik Gupta
 title: Aitik Gupta
-bio: Trying to make the world a better place, <br> one line of code at a time.
+bio: Trying to make the world a better place, one line of code at a time.
 
 # twitter summary info
-description: Personal Website
+description: I go by @aitikgupta throughout the web \o/ | A budding developer who's all about software engineering!
 
 # if it's an external image, update below for true
 # better with square images
@@ -45,7 +45,7 @@ twitter: aitikgupta
 telegram: aitikgupta
 
 # pinterest: mypinterest
-linkedin: aitik-gupta
+linkedin: aitikgupta
 # youtube: myyoutube
 # spotify: myspotify
 github: aitikgupta
@@ -82,23 +82,11 @@ social-links-order: [email, linkedin, github, twitter, gitlab-gnome, scholar, in
 authors:
   aitikgupta:
     name: Aitik Gupta
-    bio: Trying to make the world a better place, a line of code at a time.
+    bio: I go by @aitikgupta throughout the web! \o/
     external-image: true
     picture: https://avatars.githubusercontent.com/u/43996118?s=50&u=d2dfb0aeaed984159d94e88cd8c91495aae7f49d&v=4
-    linkedin: aitik-gupta
+    linkedin: aitikgupta
     github: aitikgupta
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
