@@ -1,16 +1,17 @@
 <div class="item {% if post.star %}star{% endif %}">
     <a class="url" href="{{ site.url }}{{ post.url }}">
-        <div class="side-by-side" style="margin-top: 5px; margin-bottom: 5px;">
-            <div class="toleft" style="vertical-align: middle;">
+        <div class="side-by-side" style="margin-top: 5px; margin-bottom: 5px; box-shadow: 0.1rem 0.2rem #aaaaaa">
+            <div class="toleft" style="vertical-align: middle; margin-top: 2rem; margin-bottom: 2rem;">
                 <img
                 class="selfie"
+                width="90%"
                 src="{% if post.headerImage == true %}{{ post.image }}{% else %}#{% endif %}"
                 alt="{{ site.authors[page.author].name }}"
                 />
             </div>
-            <div class="toright" style="vertical-align: middle; margin-top: -2rem; text-align: center;">
+            <div class="toright" style="vertical-align: middle; margin-top: -2rem; text-align: center; margin-left: auto;">
                 <h3 class="title">{{ post.title }}</h3>
-                <h5 class="title" style="font-weight: normal;">{{ post.description }}</h5>
+                <h5 class="title" style="font-weight: normal; padding-left: 5%; padding-right: 5%;">{{ post.description }}</h5>
                 <dateblog>
                     <span class="date">{{ post.date | date: '%d %b, %Y' }}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
                     <span class="words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>

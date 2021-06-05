@@ -8,24 +8,22 @@ title: Projects
     {% else %}
         {% for post in site.posts %}
             {% if post.projects %}
-                <div class="item {% if post.star %}star{% endif %}">
-                    <center>
-                        <div class="side-by-side" style="margin-top: 5px; margin-bottom: 5px;">
-                            <div class="toleft" style="vertical-align: middle; margin-bottom: 0px;">
-                                <img src="{{ post.image }}" alt="{{ post.url }}" width="50%">
-                            </div>
-                            <div class="toright" style="vertical-align: middle; margin-bottom: 0px; margin-top: 0px">
-                                <h3 class="title">{{ post.title }}</h3>
-                                {% if post.about %}
-                                [<a class="url" href="{{ site.url }}{{ post.url }}">About</a>] 
-                                {% endif %}
-                                {% if post.code %}
-                                [<a class="url" href="{{ post.code }}" target="_blank">Code</a>]
-                                {% endif %}
-                                <h5 class="title">{{ post.description }}</h5>
-                            </div>
+                <div class="item {% if post.star %}star{% endif %}" style="text-align: center;">
+                    <div class="side-by-side" style="margin-top: 5px; margin-bottom: 5px; box-shadow: 0.1rem 0.2rem #aaaaaa;">
+                        <div class="toleft" style="vertical-align: middle; margin-top: 2rem; margin-bottom: 2rem;">
+                            <img src="{{ post.image }}" alt="{{ post.url }}" width="50%">
                         </div>
-                    </center>
+                        <div class="toright" style="vertical-align: middle; margin-left: auto;">
+                            <h3 class="title">{{ post.title }}</h3>
+                            {% if post.about %}
+                            [<a class="url" href="{{ site.url }}{{ post.url }}">About</a>] 
+                            {% endif %}
+                            {% if post.code %}
+                            [<a class="url" href="{{ post.code }}" target="_blank">Code</a>]
+                            {% endif %}
+                            <h5 class="title" style="padding-left: 5%; padding-right: 5%;">{{ post.description }}</h5>
+                        </div>
+                    </div>
                 </div>
                 {% if post.title != "E-RotaNet" %}
                     <hr>
