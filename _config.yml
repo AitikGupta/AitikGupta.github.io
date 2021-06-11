@@ -11,7 +11,7 @@ description: I go by @aitikgupta throughout the web \o/ ; A budding developer wh
 external-image: true
 picture: https://user-images.githubusercontent.com/43996118/117749466-7620cc00-b22f-11eb-9f4e-8a92b9518980.png
 picture-big: https://user-images.githubusercontent.com/43996118/117749466-7620cc00-b22f-11eb-9f4e-8a92b9518980.png
-screenshot: assets/images/screenshot.png
+screenshot: /assets/images/screenshot.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
