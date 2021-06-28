@@ -16,8 +16,9 @@ screenshot: /assets/images/screenshot.png
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/1zMhvo41LmrjzIJgbpqklV2Qfslc1FPYo/view?usp=sharing
+resume-external: false
+resume-url: Aitik_Gupta_SWE_Resume.pdf
+# resume-url: https://drive.google.com/file/d/1zMhvo41LmrjzIJgbpqklV2Qfslc1FPYo/view?usp=sharing
 
 # contact-url: https://formspree.io/f/mbjpbgvk
 contact-url: https://send.pageclip.co/fRVK8PxpPKBlFfJZcbtPSaXqFxfuorbc/contact-form
