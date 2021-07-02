@@ -1,5 +1,5 @@
 ---
-title: GSoC'21 Introduction at Matplotlib
+title: 'GSoC''21: Introduction at Matplotlib'
 date: 2021-05-19 23:45
 image: https://user-images.githubusercontent.com/43996118/118876008-5e6dd580-b90a-11eb-96db-0abc930c6993.png
 headerImage: true
