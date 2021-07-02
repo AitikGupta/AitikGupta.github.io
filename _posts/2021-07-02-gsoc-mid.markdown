@@ -41,7 +41,7 @@ It's really easy to fall into the trap of trying to do _everything_ within your 
 <hr>
 To give an analogy, <ins>Google Docs</ins> try to do _a lot_ of things with its platform, from basic text editing to full-fledged project management.
 
-Compared with <ins>Notion</ins>, whose whole _niche_ is to provide a platform for project management, **people tend to choose the latter for their specific needs.**
+Compared with <ins>Notion</ins>, whose whole _niche_ is to provide a platform for project management (among other things), **some people tend to choose the latter for their specific needs.**
 <hr>
 Since this analogy holds true even for Matplotlib, it uses external dependencies like [FreeType](https://www.freetype.org/), [ttconv](https://github.com/sandflow/ttconv), and newly proposed [fontTools](https://github.com/fonttools/fonttools) to handle font subsetting, embedding, rendering, and related stuff.
 
