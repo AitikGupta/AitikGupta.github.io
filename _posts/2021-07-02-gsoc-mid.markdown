@@ -52,7 +52,7 @@ Matplotlib uses an external dependency `ttconv` which was initially forked into 
 
 Over the time, there were a lot of issues with it which were either hard to fix, or didn't attract a lot of attention. (See the above paragraph for a valid reason)
 
-One major utility which is still used is `convert_ttf_to_ps`, which takes a _font path_ as input and converts it into a Type 3 or Type 42 PostScript font, which can be embedded within PS/EPS output documents. The guide I wrote (mentioned just above the recent heading) contains decent descriptions, the differences between these type of fonts, etc.
+One major utility which is still used is `convert_ttf_to_ps`, which takes a _font path_ as input and converts it into a Type 3 or Type 42 PostScript font, which can be embedded within PS/EPS output documents. The guide I wrote ([link](https://matplotlib.org/stable/users/fonts.html)) contains decent descriptions, the differences between these type of fonts, etc.
 
 #### So we need to convert that _font path_ input to a _font buffer_ input.
 Why do we need to? Type 42 subsetting isn't really supported by ttconv, so we use a new dependency called fontTools, whose 'full-time job' is to subset Type 42 fonts for us (among other things).

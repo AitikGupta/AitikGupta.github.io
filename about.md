@@ -6,42 +6,64 @@ layout: page
 <div class="side-by-side" style="margin-top: 5px; margin-bottom: 5px;">
     <div class="toleft" style="vertical-align: middle; text-align: center;">
         <img src="{{ site.picture-big }}">
-        <figcaption style="margin-top: 2rem;">a confident/arrogant photo</figcaption>
+        <figcaption style="margin-top: 2rem;">a confident/arrogant shot</figcaption>
     </div>
     <div class="toright" style="vertical-align: middle; text-align: center;">
         <h2>Hello, I'm Aitik Gupta</h2>
-        <h4>and welcome to my corner of the web!</h4>
+        <h5 style="margin-top: -2px;"><samp>and welcome to my corner of the internet!</samp></h5>
     </div>
 </div>
 <p align="center">
-A budding developer who's all about software engineering!
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/></svg> An undergraduate in prefinal year from IIIT, Gwalior
 </p>
-I'm an undergraduate in my junior year from Indian Institute of Information Technology and Management, Gwalior.
 
 My technical/professional experiences:
-> * Google Summer of Code '21 at <a style="text-decoration: none;" href="https://matplotlib.org/">Matplotlib</a> (under <a style="text-decoration: none;" href="https://numfocus.org/">NumFOCUS</a>)
+> * <normal style="font-size: 1.55rem;">Google Summer of Code '21 at <a style="text-decoration: none;" href="https://matplotlib.org/">Matplotlib</a> (under <a style="text-decoration: none;" href="https://numfocus.org/">NumFOCUS</a>)</normal>
 >
-> * MLH Fellow Spring '21 at <a style="text-decoration: none;" href="http://fellowship.mlh.io/">Major League Hacking</a>
+> * <normal style="font-size: 1.55rem;">Explorer Fellow Spring '21 at <a style="text-decoration: none;" href="http://fellowship.mlh.io/">Major League Hacking</a></normal>
 > 
-> * Former Machine Learning Intern at <a style="text-decoration: none;" href="https://www.rapidquest.in/">RapidQuest</a>
+> * <normal style="font-size: 1.55rem;">Machine Learning Intern '20 at <a style="text-decoration: none;" href="https://www.rapidquest.in/">RapidQuest</a></normal>
 >
-> * Former Project Trainee at <a style="text-decoration: none;" href="https://www.drdo.gov.in/home">Defence Research and Development Organisation (DRDO)</a>
+> * <normal style="font-size: 1.55rem;">Project Trainee '19 at <a style="text-decoration: none;" href="https://www.drdo.gov.in/home">Defence Research and Development Organisation</a></normal>
 
-I like to think along the lines of clean and object-oriented code, mostly using __Python__ and __C++__. My interests lie in the field of __Software Engineering__ under the hood of __Web Development__ and/or __Machine Learning__.
+I like to think along the lines of <ins>clean</ins> and <ins>maintainable</ins> code, mostly using:
+- __Python__
+- __JavaScript__
+- __C++__
 
-_I'm always up for new and exciting challenges!_
+<hr>
 
-My personal projects apply technologies including core CS concepts, domains like backend, computer vision etc. to realtime utilities, and are open-sourced at [GitHub](https://github.com/aitikgupta).
+<h4> Tech-Stack that I'm familiar with:</h4>
+- __Git__ and __GitHub__
+- Backend
+  - __GraphQL__
+  - __Flask__ / __FastAPI__
+- Frontend
+  - __React__
+  - __HTML__ / __Tailwind CSS__
+  - __Jekyll__
+- Database
+  - __MongoDB__
+  - __PostgreSQL__
+- __Anaconda__
+- __Node.js__
+- __TFLite__
+
+<hr>
+
+__Software Development__ (<ins>Backend</ins> Engineering) motivates me to collaborate with teams and build shippable products!
+
+My personal projects apply technologies including core CS concepts, databases, design patterns, into realtime utilities, and are [open-sourced](https://github.com/aitikgupta).
 
 ### Oh, did I mention?
-I find _Open Source community_ truly amazing, some of my major contributions:
+I find Open Source community _truly amazing_, some of my major contributions:
 * [Matplotlib](https://github.com/matplotlib/matplotlib/issues?q=author%3Aaitikgupta+)
 * [CuPy](https://github.com/cupy/cupy/issues?q=author%3Aaitikgupta+)
 * [NumPy](https://github.com/numpy/numpy/issues?q=author%3Aaitikgupta+)
 * [Pitivi](https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=aitikgupta)
 * [OpenCV](https://github.com/opencv/opencv/issues?q=author%3Aaitikgupta+)
 
-Apart from the technical aspects, when I'm not on my laptop I like to take part in stage & street theatres, and attend to gaming on E-Platforms (looking at you, fellow Valorant players!).
+Apart from the technical aspects, when I'm not on my laptop I like to take part in stage & street theatres, and attend to gaming on E-Platforms (looking at you, fellow <ins>Valorant</ins> players!).
 
 <hr>
 #### PS: I go by [@aitikgupta]({{ site.url }}) throughout the web! \o/
