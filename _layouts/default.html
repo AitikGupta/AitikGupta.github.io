@@ -9,6 +9,10 @@ layout: compress
         {% include analytics-google.html %}
     {% endif %}
 
+    {% if site.analytics-hotjar %}
+        {% include analytics-hotjar.html %}
+    {% endif %}
+
     <meta charset="utf-8">
     <meta name=viewport content="width=device-width, initial-scale=1">
 
