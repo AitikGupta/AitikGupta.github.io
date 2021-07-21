@@ -12,7 +12,7 @@ author: aitikgupta
 description: We're almost halfway through!
 ---
 
-**"<ins>Aitik, how is your GSoC going?</ins>"**
+**“<ins>Aitik, how is your GSoC going?</ins>”**
 
 Well, it's been a while since I last wrote. But I wasn't spending time watching _Loki_ either! (that's a lie.)
 
