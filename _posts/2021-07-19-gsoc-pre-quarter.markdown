@@ -14,7 +14,7 @@ description: First steps to multi-font text engine!
 
 **“<ins>Well? Did you get it working?!</ins>”**
 
-Before I answer that question, if you're missing the context, check out my previous blog's last few lines.. promise it won't take you more than 30 seconds to get the whole problem!
+Before I answer that question, if you're missing the context, check out my [previous blog](https://aitikgupta.com/gsoc-mid/)'s last few lines.. promise it won't take you more than 30 seconds to get the whole problem!
 
 With this short writeup, I intend to talk about _what_ we did and _why_ we did, what we did. XD
 
@@ -22,7 +22,7 @@ With this short writeup, I intend to talk about _what_ we did and _why_ we did, 
 Ring any bells? Remember OS (Operating Systems)? It's one of the core CS subjects which I bunked then and regret now. (╥﹏╥)
 
 The [wikipedia page](https://en.wikipedia.org/wiki/Ostrich_algorithm) has a 2-liner explaination if you have no idea what's an Ostrich Algorithm.. but I know most of y'all won't bother clicking it XD, so here goes:
-> Ostrich algorithm is a strategy of ignoring potential problems by "sticking one's head in the sand and pretend there is no problem"
+> Ostrich algorithm is a strategy of ignoring potential problems by "sticking one's head in the sand and pretending there is no problem"
 
 An important thing to note: it is used when it is more **cost-effective** to _allow the problem to occur than to attempt its prevention_.
 
@@ -32,16 +32,16 @@ As you might've guessed by now, we ultimately ended up with the *not-so-clean* A
 The highest level overview of the problem was:
 
 ```
-❌ library1 -> buffer -> library2_with_buffer
-✅ library1 -> buffer -> tempfile -> library2_with_file
+❌ fontTools -> buffer -> ttconv_with_buffer
+✅ fontTools -> buffer -> tempfile -> ttconv_with_file
 ```
-The first approach created corrupted outputs, however the second approach worked fine. A point to note here would be that*Method 1* is better in terms of separation of *reading* the file from *parsing* the data.
+The first approach created corrupted outputs, however the second approach worked fine. A point to note here would be that *Method 1* is better in terms of separation of *reading* the file from *parsing* the data.
 
-1. `library1` is [fontTools](https://github.com/fonttools/fonttools), whereas `library2` is [ttconv](https://github.com/matplotlib/matplotlib/tree/master/extern/ttconv).
-2. `library2_with_buffer` is <ins>ttconv</ins>, but modified to input a file buffer instead of a file-path
+1. [fontTools](https://github.com/fonttools/fonttools) handles the Type42 subsetting for us, whereas [ttconv](https://github.com/matplotlib/matplotlib/tree/master/extern/ttconv) handles the embedding.
+2. `ttconv_with_buffer` is a modification to the original `ttconv_with_file`; that allows it to input a file buffer instead of a file-path
 
 You might be tempted to say:
-> "Well, `library2_with_buffer` must be wrongly modified, duh."
+> "Well, `ttconv_with_buffer` must be wrongly modified, duh."
 
 Logically, yes. `ttconv` was designed to work with a file-path and not a file-object (buffer), and modifying a codebase **written in 1998** turned out to be a larger pain than we anticipated.
 #### It came to a point where one of my mentors decided to implement everything in Python!
@@ -85,6 +85,6 @@ We still need to migrate the library's internal implementation from **font-first
 
 
 But that's for later, for now:
-![OneAgainThankingYou](https://user-images.githubusercontent.com/43996118/126441988-5a2067fd-055e-44e5-86e9-4dddf47abc9d.png)
+![OnceAgainThankingYou](https://user-images.githubusercontent.com/43996118/126441988-5a2067fd-055e-44e5-86e9-4dddf47abc9d.png)
 
 #### NOTE: This blog post is also available at [Matplotblog](https://matplotlib.org/matplotblog/).
