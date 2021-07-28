@@ -18,6 +18,8 @@ layout: page
 </p>
 
 My technical/professional experiences:
+> * <normal style="font-size: 1.55rem;">Software Engineer Intern '21 at <a style="text-decoration: none;" href="https://retrera.com/">Retrera</a></normal>
+>
 > * <normal style="font-size: 1.55rem;">Google Summer of Code '21 at <a style="text-decoration: none;" href="https://matplotlib.org/">Matplotlib</a> (under <a style="text-decoration: none;" href="https://numfocus.org/">NumFOCUS</a>)</normal>
 >
 > * <normal style="font-size: 1.55rem;">Explorer Fellow Spring '21 at <a style="text-decoration: none;" href="http://fellowship.mlh.io/">Major League Hacking</a></normal>
@@ -70,6 +72,7 @@ Apart from the technical aspects, when I'm not on my laptop I like to take part 
 <hr>
 
 ### Some major highlights:
+- [7/21] Internship at [Retrera](https://retrera.com/) begins
 - [5/21] [Proposal](https://summerofcode.withgoogle.com/projects/#5941691627864064) accepted for Google Summer of Code 2021
 - [4/21] Fellowship at Major League Hacking ends
 - [4/21] [Top Project](https://devpost.com/software/sociomark) at Sprint 2 [Hackathon](https://fellowship-explorer-2-batch-2.devpost.com/project-gallery)
