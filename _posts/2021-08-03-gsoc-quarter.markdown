@@ -65,7 +65,7 @@ Oh, looks like all we need are Faces!
 
 Anyway, if you already know what Faces are, it might strike you:
 
-If we already have all the faces we need from multiple fonts (let's say we created a child of FT2Font.. which only <ins>tracks the faces</ins> for its families), we should be able to render everything from that parent's FT2Font right?
+If we already have all the faces we need from multiple fonts (let's say we created a child of FT2Font.. which only <ins>tracks the faces</ins> for its families), we should be able to render everything from that parent FT2Font right?
 
 As I later figured out while finding segfaults in implementing this design:
 ```
