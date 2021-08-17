@@ -57,7 +57,9 @@ Matplotlib was designed to work with a single font at runtime. A user _could_ sp
 
 Once that font was found (which is almost always found, since Matplotlib ships with a set of default fonts), all the user text was rendered only through that font. (which used to give out "<ins>tofu</ins>" if a character wasn't found)
 
-It might seem like an _outdated_ approach for text rendering, now that we have these concepts like font-fallback, <ins>but these concepts weren't very well discussed in early 2000s</ins>. Even getting a single font to work _was a hard engineering problem_.
+---
+
+It might seem like an _outdated_ approach for text rendering, now that we have these concepts like font-fallback, <ins>but these concepts weren't very well discussed in early 2000s</ins>. Even getting a single font to work _was considered a hard engineering problem_.
 
 This was especially because of the lack of **any standardization** for representation of fonts (Adobe had their own font representation, and so did Apple, Microsoft, etc.)
 
@@ -67,7 +69,8 @@ This was especially because of the lack of **any standardization** for represent
 	<figcaption><ins>Previous</ins> (notice <i>Tofus</i>) VS  <ins>After</ins> (CJK font as fallback)</figcaption>
 </p>
 
-To migrate from a font-first approach to a text-first approach, there has been multiple steps:
+To migrate from a font-first approach to a text-first approach, there are multiple steps involved:
+
 ### Parsing the whole font family
 The very first (and crucial!) step is to get to a point where we have multiple font paths (ideally individual font files for the whole family). That is achieved with either:
 - [PR: [with findfont diff] Parsing all families in font_manager](https://github.com/matplotlib/matplotlib/pull/20496), or
