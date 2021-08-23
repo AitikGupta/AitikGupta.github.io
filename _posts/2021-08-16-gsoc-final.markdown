@@ -9,12 +9,12 @@ tag:
 - Open-Source
 category: blog
 author: aitikgupta
-description: Report of work done during the Summer of Code '21
+description: Report of work done during Google Summer of Code '21
 ---
 
 **<ins>Matplotlib: Revisiting Text/Font Handling</ins>**
 
-Here's a [meme](https://user-images.githubusercontent.com/43996118/129448683-bc136398-afeb-40ac-bbb7-0576757baf3c.jpg) I created, to kick things off for this final report!
+To kick things off for the final report, here's a [meme](https://user-images.githubusercontent.com/43996118/129448683-bc136398-afeb-40ac-bbb7-0576757baf3c.jpg) to nudge about the [previous blogs](https://aitikgupta.github.io/tags/#gsoc).
 ## About Matplotlib
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations, which has become a _de-facto Python plotting library_.
 
