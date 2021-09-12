@@ -27,7 +27,7 @@ Much of the implementation behind its font manager is inspired by [W3C](https://
 (..more on this later)
 
 ### About the Project
-(PS: here's [the link](https://docs.google.com/document/d/11PrXKjMHhl0rcQB4p_W9JY_AbPCkYuoTT0t85937nB0/) to my GSoC proposal, if you're interested)
+(PS: here's [the link](https://docs.google.com/document/d/11PrXKjMHhl0rcQB4p_W9JY_AbPCkYuoTT0t85937nB0/view#heading=h.feg5pv3x59u2) to my GSoC proposal, if you're interested)
 
 Overall, the project was divided into two major subgoals:
 1. Font Subsetting
