@@ -18,13 +18,15 @@ layout: page
 </p>
 
 My technical/professional experiences:
+> * <normal style="font-size: 1.55rem;">Backend Engineer Intern '21 at <a style="text-decoration: none;" href="https://fampay.in/">FamPay</a></normal>
+>
 > * <normal style="font-size: 1.55rem;">Software Engineer Intern '21 at <a style="text-decoration: none;" href="https://retrera.com/">Retrera</a></normal>
 >
 > * <normal style="font-size: 1.55rem;">Google Summer of Code '21 at <a style="text-decoration: none;" href="https://matplotlib.org/">Matplotlib</a> (under <a style="text-decoration: none;" href="https://numfocus.org/">NumFOCUS</a>)</normal>
 >
 > * <normal style="font-size: 1.55rem;">Explorer Fellow Spring '21 at <a style="text-decoration: none;" href="http://fellowship.mlh.io/">Major League Hacking</a></normal>
 > 
-> * <normal style="font-size: 1.55rem;">Machine Learning Intern '20 at <a style="text-decoration: none;" href="https://www.rapidquest.in/">RapidQuest</a></normal>
+> * <normal style="font-size: 1.55rem;">Software Engineer Intern '20 at <a style="text-decoration: none;" href="https://www.rapidquest.in/">RapidQuest</a></normal>
 >
 > * <normal style="font-size: 1.55rem;">Project Trainee '19 at <a style="text-decoration: none;" href="https://www.drdo.gov.in/home">Defence Research and Development Organisation</a></normal>
 
@@ -72,7 +74,11 @@ Apart from the technical aspects, when I'm not on my laptop I like to take part 
 <hr>
 
 ### Some major highlights:
+- [9/21] Internship at [FamPay](https://fampay.in/) begins
+- [8/21] Internship at [Retrera](https://retrera.com/) ends
+- [8/21] Google Summer of Code with Matplotlib ends
 - [7/21] Internship at [Retrera](https://retrera.com/) begins
+- [6/21] Google Summer of Code with Matplotlib begins
 - [5/21] [Proposal](https://summerofcode.withgoogle.com/projects/#5941691627864064) accepted for Google Summer of Code 2021
 - [4/21] Fellowship at Major League Hacking ends
 - [4/21] [Top Project](https://devpost.com/software/sociomark) at Sprint 2 [Hackathon](https://fellowship-explorer-2-batch-2.devpost.com/project-gallery)
