@@ -18,17 +18,17 @@ layout: page
 </p>
 
 My technical/professional experiences:
-> * <normal style="font-size: 1.55rem;">Backend Engineer Intern '21 at <a style="text-decoration: none;" href="https://fampay.in/">FamPay</a></normal>
->
-> * <normal style="font-size: 1.55rem;">Software Engineer Intern '21 at <a style="text-decoration: none;" href="https://retrera.com/">Retrera</a></normal>
->
-> * <normal style="font-size: 1.55rem;">Google Summer of Code '21 at <a style="text-decoration: none;" href="https://matplotlib.org/">Matplotlib</a> (under <a style="text-decoration: none;" href="https://numfocus.org/">NumFOCUS</a>)</normal>
->
-> * <normal style="font-size: 1.55rem;">Explorer Fellow Spring '21 at <a style="text-decoration: none;" href="http://fellowship.mlh.io/">Major League Hacking</a></normal>
-> 
-> * <normal style="font-size: 1.55rem;">Software Engineer Intern '20 at <a style="text-decoration: none;" href="https://www.rapidquest.in/">RapidQuest</a></normal>
->
-> * <normal style="font-size: 1.55rem;">Project Trainee '19 at <a style="text-decoration: none;" href="https://www.drdo.gov.in/home">Defence Research and Development Organisation</a></normal>
+* <normal style="font-size: 1.55rem;"> <img alt="FamPay" title="FamPay" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="/assets/images/fampay.webp"> Backend Engineer Intern '21 at <a style="text-decoration: none;" href="https://fampay.in/">FamPay</a></normal>
+
+* <normal style="font-size: 1.55rem;"> <img alt="Retrera" title="Retrera" style="margin:0px;margin-left:-1px;width:18px;float:left;padding-top:0.4rem;padding-right:0.25rem" src="/assets/images/retrera.webp"> Software Engineer Intern '21 at <a style="text-decoration: none;" href="https://retrera.com/">Retrera</a></normal>
+
+* <normal style="font-size: 1.55rem;"> <img alt="GSoC" title="GSoC" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="/assets/images/gsoc.webp"> Google Summer of Code '21 at <a style="text-decoration: none;" href="https://matplotlib.org/">Matplotlib</a> (under <a style="text-decoration: none;" href="https://numfocus.org/">NumFOCUS</a>)</normal>
+
+* <normal style="font-size: 1.55rem;"> <img alt="MLH" title="MLH" style="margin:0px;width:15px;float:left;padding-top:0.9rem;padding-right:0.5rem" src="/assets/images/mlh.webp"> Explorer Fellow Spring '21 at <a style="text-decoration: none;" href="http://fellowship.mlh.io/">Major League Hacking</a></normal>
+
+* <normal style="font-size: 1.55rem;"> <img alt="RapidQuest" title="RapidQuest" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="/assets/images/rapidquest.webp"> Software Engineer Intern '20 at <a style="text-decoration: none;" href="https://www.rapidquest.in/">RapidQuest</a></normal>
+
+* <normal style="font-size: 1.55rem;"> <img alt="DRDO" title="DRDO" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="/assets/images/drdo.webp"> Project Trainee '19 at <a style="text-decoration: none;" href="https://www.drdo.gov.in/home">Defence Research and Development Organisation</a></normal>
 
 I like to think along the lines of <ins>clean</ins> and <ins>maintainable</ins> code, mostly using:
 - __Python__
@@ -41,7 +41,9 @@ I like to think along the lines of <ins>clean</ins> and <ins>maintainable</ins> 
 - __Git__ and __GitHub__
 - Backend
   - __GraphQL__
-  - __Flask__ / __FastAPI__
+  - __Django__
+  - __Flask__
+  - __FastAPI__
 - Frontend
   - __React__
   - __HTML__ / __Tailwind CSS__
@@ -55,7 +57,7 @@ I like to think along the lines of <ins>clean</ins> and <ins>maintainable</ins> 
 
 <hr>
 
-__Software Development__ (<ins>Backend</ins> Engineering) motivates me to collaborate with teams and build shippable products!
+__Software Development__ (_Backend Engineering_) motivates me to collaborate with teams and build shippable products!
 
 My personal projects apply technologies including core CS concepts, databases, design patterns, into realtime utilities, and are [open-sourced](https://github.com/aitikgupta).
 
