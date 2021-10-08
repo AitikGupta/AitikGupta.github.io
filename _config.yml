@@ -9,8 +9,8 @@ description: I go by @aitikgupta throughout the web \o/ ; A budding developer wh
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: https://user-images.githubusercontent.com/43996118/117749466-7620cc00-b22f-11eb-9f4e-8a92b9518980.png
-picture-big: https://user-images.githubusercontent.com/43996118/117749466-7620cc00-b22f-11eb-9f4e-8a92b9518980.png
+picture: /assets/images/Aitik_Gupta_Headshot.webp
+picture-big: /assets/images/Aitik_Gupta_Headshot.webp
 screenshot: /assets/images/screenshot.png
 
 # If you want to include your resume, set to true
@@ -93,7 +93,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
