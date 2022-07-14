@@ -1,7 +1,7 @@
 ---
 title: My Bread & Butter in Japan
 date: '2022-07-15 07:45:00'
-image: https://user-images.githubusercontent.com/43996118/178784793-5c6beb2c-6c15-4f1c-8fc6-72eeb9c34f41.png
+image: https://user-images.githubusercontent.com/43996118/179068655-c84705b4-e3d8-4d8d-86d4-324dbecb298e.png
 headerImage: true
 tag:
 - Internship
