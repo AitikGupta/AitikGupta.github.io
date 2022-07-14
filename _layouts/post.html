@@ -21,6 +21,10 @@ layout: page
     </div>
 {% endif %}
 
+<h4>Table of Contents:</h4>
+{% include toc.html html=content sanitize=true class="no_anchor" h_max=3%}
+<hr>
+
 {{content}}
 
 {% if site.post-advance-links contains page.category %}
