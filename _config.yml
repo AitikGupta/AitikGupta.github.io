@@ -10,7 +10,7 @@ description: I go by @aitikgupta throughout the web \o/ ; A budding developer wh
 # better with square images
 external-image: true
 picture: /assets/images/Aitik_Gupta_Headshot.webp
-picture-big: /assets/images/Aitik_Gupta_Headshot.webp
+picture-big: https://user-images.githubusercontent.com/43996118/179051406-91f2d265-23db-41c8-b327-33de1e8abb2d.jpeg
 screenshot: /assets/images/screenshot.png
 
 # If you want to include your resume, set to true

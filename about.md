@@ -5,12 +5,12 @@ layout: page
 
 <div class="side-by-side" style="margin-top: 5px; margin-bottom: 5px;">
     <div class="toleft" style="vertical-align: middle; text-align: center;">
-        <img src="{{ site.picture-big }}">
-        <figcaption style="margin-top: 2rem;">a confident/arrogant shot</figcaption>
-    </div>
-    <div class="toright" style="vertical-align: middle; text-align: center;">
         <h2>Hello, I'm Aitik Gupta</h2>
         <h5 style="margin-top: -2px;"><samp>and welcome to my corner of the internet!</samp></h5>
+    </div>
+    <div class="toright" style="vertical-align: middle; text-align: center;">
+        <img src="{{ site.picture-big }}">
+			  <figcaption style="margin-top: 2rem;">find me exploring 🫡</figcaption>
     </div>
 </div>
 <p align="center">
@@ -18,6 +18,10 @@ layout: page
 </p>
 
 My technical/professional experiences:
+* <normal style="font-size: 1.55rem;"> <img alt="Mercari" title="Mercari" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="https://avatars.githubusercontent.com/u/8133808?s=100&v=4"> Software Engineer Intern - Backend '22 at <a style="text-decoration: none;" href="https://about.mercari.com/">Mercari JP</a></normal>
+
+* <normal style="font-size: 1.55rem;"> <img alt="SuprDaily" title="SuprDaily" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="https://www.suprdaily.com/assets/images/6221ec1d87fdd88ede7b2f8d_new-logo.png"> Software Engineer Intern '22 at <a style="text-decoration: none;" href="https://www.suprdaily.com/">Swiggy - SuprDaily</a></normal>
+
 * <normal style="font-size: 1.55rem;"> <img alt="FamPay" title="FamPay" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="/assets/images/fampay.webp"> Backend Engineer Intern '21 at <a style="text-decoration: none;" href="https://fampay.in/">FamPay</a></normal>
 
 * <normal style="font-size: 1.55rem;"> <img alt="Retrera" title="Retrera" style="margin:0px;margin-left:-1px;width:18px;float:left;padding-top:0.4rem;padding-right:0.25rem" src="/assets/images/retrera.webp"> Software Engineer Intern '21 at <a style="text-decoration: none;" href="https://retrera.com/">Retrera</a></normal>
@@ -30,12 +34,28 @@ My technical/professional experiences:
 
 * <normal style="font-size: 1.55rem;"> <img alt="DRDO" title="DRDO" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="/assets/images/drdo.webp"> Project Trainee '19 at <a style="text-decoration: none;" href="https://www.drdo.gov.in/home">Defence Research and Development Organisation</a></normal>
 
-I like to think along the lines of <ins>clean</ins> and <ins>maintainable</ins> code, mostly using:
-- __Python__
-- __JavaScript__
-- __C++__
+<hr>
+
+Over the last few years I've been exploring how technology drives the ecosystems like demand-shaping in e-commerce, payments, C2C marketplace, etc. at established firms.
+
+> I've gained experience by implementing, optimizing and maintaining the backend for gobs of product features.
+
+My personal projects apply technologies including core CS academia, databases, design patterns, into realtime utilities, and are [open-sourced](https://github.com/aitikgupta).
+
+### Did I mention?
+I find Open Source community _truly amazing_, some of my major contributions:
+* [Matplotlib](https://github.com/matplotlib/matplotlib/issues?q=author%3Aaitikgupta+)
+* [CuPy](https://github.com/cupy/cupy/issues?q=author%3Aaitikgupta+)
+* [NumPy](https://github.com/numpy/numpy/issues?q=author%3Aaitikgupta+)
+* [Pitivi](https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=aitikgupta)
+* [OpenCV](https://github.com/opencv/opencv/issues?q=author%3Aaitikgupta+)
 
 <hr>
+
+I like challenges, and I solve them with:
+- __Python__
+- __Golang__
+- __C++__
 
 <h4> Tech-Stack that I'm familiar with:</h4>
 - __Git__ and __GitHub__
@@ -44,6 +64,7 @@ I like to think along the lines of <ins>clean</ins> and <ins>maintainable</ins> 
   - __Django__
   - __Flask__
   - __FastAPI__
+  - __entgo__
 - Frontend
   - __React__
   - __HTML__ / __Tailwind CSS__
@@ -57,25 +78,16 @@ I like to think along the lines of <ins>clean</ins> and <ins>maintainable</ins> 
 
 <hr>
 
-__Software Development__ (_Backend Engineering_) motivates me to collaborate with teams and build shippable products!
+During my free time, I like to [blog my journey]({{ site.url }}/blog/), take part in stage & street theatres, compete in casual e-sports, and explore cuisines!
 
-My personal projects apply technologies including core CS concepts, databases, design patterns, into realtime utilities, and are [open-sourced](https://github.com/aitikgupta).
-
-### Oh, did I mention?
-I find Open Source community _truly amazing_, some of my major contributions:
-* [Matplotlib](https://github.com/matplotlib/matplotlib/issues?q=author%3Aaitikgupta+)
-* [CuPy](https://github.com/cupy/cupy/issues?q=author%3Aaitikgupta+)
-* [NumPy](https://github.com/numpy/numpy/issues?q=author%3Aaitikgupta+)
-* [Pitivi](https://gitlab.gnome.org/GNOME/pitivi/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=aitikgupta)
-* [OpenCV](https://github.com/opencv/opencv/issues?q=author%3Aaitikgupta+)
-
-Apart from the technical aspects, when I'm not on my laptop I like to take part in stage & street theatres, and attend to gaming on E-Platforms (looking at you, fellow <ins>Valorant</ins> players!).
-
-<hr>
 #### PS: I go by [@aitikgupta]({{ site.url }}) throughout the web! \o/
 <hr>
 
-### Some major highlights:
+### My life in bullet points:
+- [7/22] Internship at [Mercari, Japan](https://jp.mercari.com/) begins
+- [6/22] Internship at [SuprDaily](https://www.suprdaily.com/) ends
+- [3/22] Internship at [SuprDaily](https://www.suprdaily.com/) begins
+- [1/22] Internship at [FamPay](https://fampay.in/) ends
 - [9/21] Internship at [FamPay](https://fampay.in/) begins
 - [8/21] Internship at [Retrera](https://retrera.com/) ends
 - [8/21] Google Summer of Code with Matplotlib ends
