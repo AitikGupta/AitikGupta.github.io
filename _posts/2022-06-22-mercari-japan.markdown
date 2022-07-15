@@ -257,7 +257,7 @@ And then there are free vending machines, for drinks, equipment, and so on.
 	<figcaption>The terrace (Morning vs Night!)</figcaption>
 </p>
 
-If you're coming from the LinkedIn post, you probably have seen all these beautiful buildings, including the Skytree and the Tokyo Tower!
+If you're coming from the [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6953564861523996672/), you probably have seen all these beautiful buildings, including the Skytree and the Tokyo Tower!
 
 <p align="center">	
 		<img src="https://user-images.githubusercontent.com/43996118/178331938-351291f7-3ad5-4d9c-9fb4-8217cf0e865e.png" alt="MercariSetup" width="60%" />
@@ -274,7 +274,7 @@ Something I learnt from the interviews at Mercari:
 
 It has been my first international travel, my first time cycling through the streets alone at night, stopping wherever I want, to have a chat with strangers, to sit in a park, to try new food on my own!
 
-[Anmol](https://www.linkedin.com/in/anmolsrivastava14/), who was supposed to join with me decided to defer his internship to next January because of another offer, so I came to Japan alone. 🙄
+[Anmol](https://www.linkedin.com/in/anmolsrivastava14/), who was supposed to join with me had to defer his internship to next January due to an unexpected situation, so I came to Japan alone. 🙄
 
 > Now being alone in an entirely new country can get intimidating a bit, but the people here are very supportive. The accommodation folks even gave me a small tour of Tokyo, and I tried my first sushi with them! ❤️
 
