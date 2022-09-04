@@ -23,7 +23,7 @@ I'll plug in a sweet summary from their careers [website](https://careers.mercar
 > 
 > Mercari Group operates several businesses. The first is Mercari, Japan’s largest marketplace app allowing anyone to enjoy easily buying and selling items from their smartphone. Additionally, the Group offers Merpay, a simple, entirely in-app payment service, and Mercari Shops (Souzoh), an e-commerce platform for small businesses.
 
-I joined the company on 1st July 2022, with a position of <ins>Software Engineer Intern (Backend)</ins> - <ins>Mercari</ins>, viz. the marketplace application.
+I joined the company in the summer of 2022, with a position of <ins>Software Engineer Intern (Backend)</ins> - <ins>Mercari</ins>, viz. the marketplace application.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43996118/178297313-997cea2a-0ede-4aed-bd82-e74261d61b4d.png" alt="MerchandiseMercari" width="80%" />
