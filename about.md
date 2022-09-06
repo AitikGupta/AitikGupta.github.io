@@ -83,7 +83,6 @@ During my free time, I like to [blog my journey]({{ site.url }}/blog/), take par
 #### PS: I go by [@aitikgupta]({{ site.url }}) throughout the web! \o/
 <hr>
 
-
 ### My life in bullet points:
 - [7/22] Internship at [Mercari, Japan](https://jp.mercari.com/) begins
 - [6/22] Internship at [SuprDaily](https://www.suprdaily.com/) ends
