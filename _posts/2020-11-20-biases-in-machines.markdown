@@ -71,6 +71,7 @@ Teacher related letters/words to real-life objects. In a nutshell, we were learn
 We've established that Word Embeddings are an excellent way to represent a word in a machine (at least for now, at least for us), so that it may understand its semantic properties. But, how can we impute the actual values in n-dimensional arrays for words? To learn these embeddings, there are several techniques, several architectures. But rather than the methods, we’ll look at something which is typical for all the techniques, all the approaches.
 > ___The Data___.
 
+
 ## The Problem
 For most machine learning algorithms, we need training data. In this context, it's textual: any/all historical documentation, manuscripts, literature. \
 Any textual data can be used in training/imputing values to those n-dimensional arrays. \
