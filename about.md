@@ -6,11 +6,11 @@ layout: page
 <div class="side-by-side" style="margin-top: 5px; margin-bottom: 5px;">
     <div class="toleft" style="vertical-align: middle; text-align: center;">
         <img src="{{ site.picture-big }}">
-			  <figcaption style="margin-top: 2rem;">find me exploring 🫡</figcaption>
+			  <figcaption style="margin-top: 2rem;">I identify as <a href="https://rickandmorty.fandom.com/wiki/Story_Lord">storylord</a>, but in this multiverse my zeal is.. passion</figcaption>
     </div>
     <div class="toright" style="vertical-align: middle; text-align: center;">
-        <h2>Hello, I'm Aitik Gupta</h2>
-        <h5 style="margin-top: -2px;"><samp>and welcome to my corner of the internet!</samp></h5>
+        <h2>Konnichiwa, I'm Aitik Gupta</h2>
+        <h5 style="margin-top: -2px;"><samp>welcome to my corner of the internet!</samp></h5>
     </div>
 </div>
 <p align="center">
