@@ -1,7 +1,7 @@
 ---
 title: Three Pivotal Decisions + Tech-Expeditions
 date: '2023-10-20 13:45:00'
-image: https://user-images.githubusercontent.com/43996118/278009962-aad085bd-c224-4d11-88af-308594af31f5.png
+image: https://user-images.githubusercontent.com/43996118/278012631-c806a1e0-b46c-48d9-a35e-dbf79e211712.jpeg
 headerImage: true
 tag:
 - Internship
