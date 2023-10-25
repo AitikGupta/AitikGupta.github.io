@@ -14,13 +14,13 @@ layout: page
     </div>
 </div>
 <p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/></svg> A software engineer who likes to blogs his (so-far eventful) journey.
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/></svg> A passionate engineer who likes to blogs his (so-far eventful) journey.
 </p>
 
 My technical/professional experiences:
 * <normal style="font-size: 1.55rem;"> <img alt="Headout" title="Headout" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="/assets/images/headout.webp"> Software Engineer Intern '23 at <a style="text-decoration: none;" href="https://www.headout.com/">Headout</a></normal>
 
-* <normal style="font-size: 1.55rem;"> <img alt="BharatX" title="BharatX" style="margin:0px;width:15px;float:left;padding-right:0.5rem" src="/assets/images/bharatx.webp"> Software Engineer Intern '23 at <a style="text-decoration: none;" href="https://bharatx.tech/">BharatX</a></normal>
+* <normal style="font-size: 1.55rem;"> <img alt="BharatX" title="BharatX" style="margin:0px;width:15px;float:left;padding-top:0.2rem;padding-right:0.5rem" src="/assets/images/bharatx.webp"> Software Engineer Intern '23 at <a style="text-decoration: none;" href="https://bharatx.tech/">BharatX</a></normal>
 
 * <normal style="font-size: 1.55rem;"> <img alt="Mercari" title="Mercari" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="https://avatars.githubusercontent.com/u/8133808?s=100&v=4"> Software Engineer Intern - Backend '22 at <a style="text-decoration: none;" href="https://about.mercari.com/">Mercari JP</a></normal>
 
