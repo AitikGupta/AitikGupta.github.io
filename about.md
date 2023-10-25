@@ -14,13 +14,17 @@ layout: page
     </div>
 </div>
 <p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/></svg> A postgraduate in his final year from IIIT, Gwalior
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/></svg> A software engineer who likes to blogs his (so-far eventful) journey.
 </p>
 
 My technical/professional experiences:
+* <normal style="font-size: 1.55rem;"> <img alt="Headout" title="Headout" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="/assets/images/headout.webp"> Software Engineer Intern '23 at <a style="text-decoration: none;" href="https://www.headout.com/">Headout</a></normal>
+
+* <normal style="font-size: 1.55rem;"> <img alt="BharatX" title="BharatX" style="margin:0px;width:15px;float:left;padding-right:0.5rem" src="/assets/images/bharatx.webp"> Software Engineer Intern '23 at <a style="text-decoration: none;" href="https://bharatx.tech/">BharatX</a></normal>
+
 * <normal style="font-size: 1.55rem;"> <img alt="Mercari" title="Mercari" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="https://avatars.githubusercontent.com/u/8133808?s=100&v=4"> Software Engineer Intern - Backend '22 at <a style="text-decoration: none;" href="https://about.mercari.com/">Mercari JP</a></normal>
 
-* <normal style="font-size: 1.55rem;"> <img alt="SuprDaily" title="SuprDaily" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="https://www.suprdaily.com/assets/images/6221ec1d87fdd88ede7b2f8d_new-logo.png"> Software Engineer Intern '22 at <a style="text-decoration: none;" href="https://www.suprdaily.com/">Swiggy - SuprDaily</a></normal>
+* <normal style="font-size: 1.55rem;"> <img alt="SuprDaily" title="SuprDaily" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="/assets/images/suprdaily.webp"> Software Engineer Intern '22 at <a style="text-decoration: none;" href="https://www.suprdaily.com/">Swiggy - SuprDaily</a></normal>
 
 * <normal style="font-size: 1.55rem;"> <img alt="FamPay" title="FamPay" style="margin:0px;width:15px;float:left;padding-top:0.4rem;padding-right:0.5rem" src="/assets/images/fampay.webp"> Backend Engineer Intern '21 at <a style="text-decoration: none;" href="https://fampay.in/">FamPay</a></normal>
 
@@ -36,11 +40,11 @@ My technical/professional experiences:
 
 <hr>
 
-Over the last few years I've been exploring how technology drives the ecosystems like demand-shaping in e-commerce, payments, C2C marketplace, etc. at established firms.
+I'm a software engineer who's had opportunities to work in a diverse set of domains during my university stretch.. ___objectively amounting to ~10 internships___.
 
-> I've gained experience by implementing, optimizing and maintaining the backend for gobs of product features.
+> With a passion to solve real-world problems through technology, I have experience in implementing, optimizing and maintaining scalable backend applications.
 
-My personal projects apply technologies including core CS academia, databases, design patterns, into realtime utilities, and are [open-sourced](https://github.com/aitikgupta).
+My personal projects apply technologies including core CS academia, design patterns, into realtime utilities, and are [open-sourced](https://github.com/aitikgupta).
 
 ### Did I mention?
 I find Open Source community _truly amazing_, some of my major contributions:
@@ -52,41 +56,44 @@ I find Open Source community _truly amazing_, some of my major contributions:
 
 <hr>
 
-I like challenges, and I solve them with:
+I thrive on challenges and love to learn with these instruments:
 - __Python__
 - __Golang__
 - __C++__
 
 <h4> Tech-Stack that I'm familiar with:</h4>
-- __Git__ and __GitHub__
+- __Git__
 - Backend
   - __GraphQL__
+  - __Sprint Boot__
   - __Django__
-  - __Flask__
-  - __FastAPI__
   - __entgo__
 - Frontend
   - __React__
-  - __HTML__ / __Tailwind CSS__
   - __Jekyll__
 - Database
-  - __MongoDB__
   - __PostgreSQL__
+  - __MongoDB__
 - __Anaconda__
 - __Node.js__
-- __TFLite__
 
 <hr>
 
-During my free time, I like to [blog my journey]({{ site.url }}/blog/), take part in stage & street theatres, compete in casual e-sports, and explore cuisines!
+___Beyond coding, I share my journey through [blogging]({{ site.url }}/blog/), take the stage for theater performances, jam on my ukulele, and casually compete in e-sports!___
 
 #### PS: I go by [@aitikgupta]({{ site.url }}) throughout the web! \o/
 <hr>
 
 ### My life in bullet points:
+- [10/23] Full-time role at [Mercari, Japan](https://jp.mercari.com/) begins
+- [9/23] Internship at [Headout](https://headout.com/) ends
+- [4/23] Internship at [Headout](https://headout.com/) begins
+- [3/23] Internship at [BharatX](https://bharatx.tech/) ends
+- [1/23] Internship at [BharatX](https://bharatx.tech/) begins
 - [7/22] Internship at [Mercari, Japan](https://jp.mercari.com/) begins
 - [6/22] Internship at [SuprDaily](https://www.suprdaily.com/) ends
 - [3/22] Internship at [SuprDaily](https://www.suprdaily.com/) begins
+- [2/22] Cleared GATE exam
 - [1/22] Internship at [FamPay](https://fampay.in/) ends
 - [9/21] Internship at [FamPay](https://fampay.in/) begins
 - [8/21] Internship at [Retrera](https://retrera.com/) ends
