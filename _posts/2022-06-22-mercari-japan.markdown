@@ -16,6 +16,7 @@ So I received a 2-month internship offer from ***Mercari JP, Tokyo***. This blog
 
 *You can skip to relevant sections, if that’s your thing.* 🙃
 
+
 ## About the company
 I'll plug in a sweet summary from their careers [website](https://careers.mercari.com/products/):
 
