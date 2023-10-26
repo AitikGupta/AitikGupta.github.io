@@ -105,7 +105,7 @@ So I really took my friend's advice when he said:
 
 So I started these deep learning courses, which showed me all these gorgeous graphics for linear regression 🥰... <ins>***but then started with Reinforcement learning/Generative models***</ins> 💀??!
 
-Obiously, things started shoo'ing over.. I realised I needed some mathematical foundations before all this.. so I started all over in my 3rd semester with Andrew Ng's courses, and learning Python from the very basics.
+Obviously, things started shoo'ing over.. I realised I needed some mathematical foundations before all this.. so I started all over in my 3rd semester with Andrew Ng's courses, and learning Python from the very basics.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43996118/274760154-a06c1266-8858-4e2f-b667-4158fe4a786f.png" alt="MachineLearningAndrewNg" width="50%" />
