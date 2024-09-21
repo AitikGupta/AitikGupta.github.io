@@ -9,8 +9,8 @@ layout: page
 			  <figcaption style="margin-top: 2rem;">identifying as <a href="https://rickandmorty.fandom.com/wiki/Story_Lord">storylord</a>, with a gusto for.. zeal</figcaption>
     </div>
     <div class="toright" style="vertical-align: middle; text-align: center;">
-        <h2>Konnichiwa, I'm Aitik Gupta</h2>
-        <h5 style="margin-top: -2px;"><samp>welcome to my corner of the internet!</samp></h5>
+        <h2>こんにちは / नमस्ते / Hey there ~</h2>
+        <h5 style="margin-top: -2px;"><samp>I'm Aitik - welcome to my corner of the internet!</samp></h5>
     </div>
 </div>
 <p align="center">
